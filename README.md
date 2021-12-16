@@ -4,6 +4,8 @@ Community weekopdracht voor Bit Academy
 
 Dit is een opdracht voor de Bit Academy. Ik heb de opdracht op eigen houtje gemaakt, zonder hulp. Het was leuk om de geleerde kennis in de praktijk te brengen, het is aardig gelukt.
 
+De opdracht is te zien via https://community-challenge-anja.netlify.app/
+
 
 Jarvis Ratings
 
